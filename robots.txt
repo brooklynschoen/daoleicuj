@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theuji.lxmedia.net/sitemap.xml
